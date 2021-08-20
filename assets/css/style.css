@@ -136,3 +136,14 @@ body {
 
 .modulo.roxo-escuro {border: 2px solid #4A148C;}
 .modulo.roxo-escuro > h3 {background-color: #4A148C;}
+
+p.divisao{
+    margin-bottom: 0px;
+    font-weight: bold;
+}
+hr{
+    margin-top: 0px;
+}
+button.choice, select{
+    font-size: 1.8rem;
+}

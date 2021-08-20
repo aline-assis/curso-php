@@ -17,7 +17,7 @@ var_dump(111 === '111');//false
 var_dump(111 != '111');//false
 var_dump(111 !== '111');//true
 
-echo "<p>Relacionais no If/Else</p><hr>";
+echo "<p class='divisao'>Relacionais no If/Else</p><hr>";
 $idade = 70;
 if($idade < 18){
         echo "Menor de idade com $idade anos.<br>";
@@ -27,10 +27,11 @@ if($idade < 18){
         echo "Terceira idade com $idade anos.<br>";
 }
 
-echo '<p>Spaceship</p><hr>';
+echo '<p class="divisao">Spaceship</p><hr>';
 var_dump(5 <=> 3);
 var_dump(50 <=> 50);
 var_dump(3 <=>5);
+
 
 ?>
 <style>
