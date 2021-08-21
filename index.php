@@ -14,6 +14,21 @@
     <main class="principal">
         <div class="counteudo">
             <nav class="modulos">
+            <div class="modulo rosa-forte">
+                    <h3>Módulo 05</h3>
+                    <ul>
+                        <li>
+                            <a href="exercicio.php?dir=array&file=basico">
+                                Basico de Array
+                            </a>
+                        </li>  
+                        <li>
+                            <a href="exercicio.php?dir=array&file=mapa">
+                                Mapa
+                            </a>
+                        </li>    
+                    </ul>
+                </div> 
                  <div class="modulo rosa-forte">
                     <h3>Módulo 04</h3>
                     <ul>
